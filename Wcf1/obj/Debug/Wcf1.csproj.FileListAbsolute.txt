@@ -1,0 +1,7 @@
+C:\Users\mhmha\source\repos\Wcf1\Wcf1\obj\Debug\Wcf1.csprojAssemblyReference.cache
+C:\Users\mhmha\source\repos\Wcf1\Wcf1\obj\Debug\Wcf1.csproj.CoreCompileInputs.cache
+C:\Users\mhmha\source\repos\Wcf1\Wcf1\bin\Wcf1.dll.config
+C:\Users\mhmha\source\repos\Wcf1\Wcf1\bin\Wcf1.dll
+C:\Users\mhmha\source\repos\Wcf1\Wcf1\bin\Wcf1.pdb
+C:\Users\mhmha\source\repos\Wcf1\Wcf1\obj\Debug\Wcf1.dll
+C:\Users\mhmha\source\repos\Wcf1\Wcf1\obj\Debug\Wcf1.pdb
